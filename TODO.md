@@ -1,0 +1,2 @@
+- [ ] Improve styling for #result2 (joke display) by increasing font size, adding text shadow, and adjusting padding.
+- [ ] Style h3 as a footer with fixed positioning at the bottom, background, and centering.
